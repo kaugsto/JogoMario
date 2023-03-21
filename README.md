@@ -3,4 +3,5 @@
 Jogo mario bross feito com HTML, CSS e Javascript. 
 
 ## Jogar 🎮
-Click aqui
+
+https://jogo-mario-sigma.vercel.app/
