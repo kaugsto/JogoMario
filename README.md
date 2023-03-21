@@ -2,5 +2,5 @@
 
 Jogo mario bross feito com HTML, CSS e Javascript. 
 
-## Jogar 
+## Jogar 🎮
 Click aqui
